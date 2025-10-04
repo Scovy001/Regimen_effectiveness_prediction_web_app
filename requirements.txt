@@ -1,1 +1,8 @@
-pandas\nnumpy\nscikit-learn==1.5.0\nmatplotlib\nseaborn\nstreamlit\njoblib\npyngrok\n
+pandas
+numpy
+scikit-learn==1.5.0
+matplotlib
+seaborn
+streamlit
+joblib
+pyngrok
